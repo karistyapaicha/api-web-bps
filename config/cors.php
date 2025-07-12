@@ -24,9 +24,7 @@ return [
         'https://web-bps-frontend-liart.vercel.app'
     ],
 
-    'allowed_origins_patterns' => [
-        'https://.*\.vercel\.app'
-    ],
+    'allowed_origins_patterns' => [],
 
     'allowed_headers' => ['*'],
 
