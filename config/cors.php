@@ -21,7 +21,7 @@ return [
 
     'allowed_origins' => [
         'http://localhost:5173', 
-        'https://web-bps-frontend-liart.vercel.app'
+        'aplikasi-web-bps-orpin.vercel.app'
     ],
 
     'allowed_origins_patterns' => [],
