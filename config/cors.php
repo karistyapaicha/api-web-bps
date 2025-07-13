@@ -24,6 +24,7 @@ return [
         'https://web-bps-aplikasi.vercel.app'
     ],
 
+    
     'allowed_origins_patterns' => [],
 
     'allowed_headers' => ['*'],
