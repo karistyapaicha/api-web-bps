@@ -53,11 +53,15 @@
     },
     "config": {
         "optimize-autoloader": true,
+        "platform": {
+            "php": "8.2"
+        },
         "preferred-install": "dist",
         "sort-packages": true,
         "allow-plugins": {
             "pestphp/pest-plugin": true
         }
+        
     },
     "minimum-stability": "stable",
     "prefer-stable": true
